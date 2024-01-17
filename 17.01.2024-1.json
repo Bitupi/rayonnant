@@ -1,0 +1,25 @@
+{
+    "name": "Melanie Daniel",
+    "age": 62,
+    "address": {
+        "street": "Justin Drives",
+        "city": "Howardbury",
+        "state": "California",
+        "zip": "06311"
+    },
+    "contact": {
+        "phone": "272.732.3366x57788",
+        "servicePhone": "800630870"
+    },
+    "birthday": "1963-01-04",
+    "ip": "208.111.236.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Why recent face.\nHealth none hit story detail recently determine. Blood example sound third Mr send whole.\nBrother want but scientist do. Require performance enjoy heart wait.",
+        "bio": "Second skill sit drop be resource after. Dog memory leave force debate provide. Indeed rise standard all. Player again it contain."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
