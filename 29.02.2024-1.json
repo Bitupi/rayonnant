@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Sexton",
+    "age": 49,
+    "address": {
+        "street": "Frank Coves",
+        "city": "Port Jonfurt",
+        "state": "South Dakota",
+        "zip": "51720"
+    },
+    "contact": {
+        "phone": "(968)670-7300",
+        "servicePhone": "800973764"
+    },
+    "birthday": "1976-25-03",
+    "ip": "208.127.146.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Build really find tax partner off say. Ask daughter sing black necessary.\nReady rule though that play forward. Spring player tell career take.",
+        "bio": "Me prepare list on either sea. Of thousand next by their.\nGive message black billion later rate. World television book federal. Money already history third hear."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
