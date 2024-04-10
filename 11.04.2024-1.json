@@ -1,0 +1,25 @@
+{
+    "name": "Isaiah Smith",
+    "age": 69,
+    "address": {
+        "street": "Rodney Terrace",
+        "city": "Josephside",
+        "state": "New York",
+        "zip": "31840"
+    },
+    "contact": {
+        "phone": "577.871.5784x856",
+        "servicePhone": "800317699"
+    },
+    "birthday": "1956-06-08",
+    "ip": "212.24.82.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Early age institution politics whether race. Drive myself road night onto.\nFirst both lead peace window ever truth. Alone southern indicate parent ok war about. Theory blood work.",
+        "bio": "Result notice where its. Various little herself natural push.\nWhen discover door call. Young sell party again."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
