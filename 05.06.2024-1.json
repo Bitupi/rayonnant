@@ -1,0 +1,25 @@
+{
+    "name": "William Larson",
+    "age": 19,
+    "address": {
+        "street": "Angela Hills",
+        "city": "Brittanyview",
+        "state": "Washington",
+        "zip": "04696"
+    },
+    "contact": {
+        "phone": "923.558.3342",
+        "servicePhone": "800744737"
+    },
+    "birthday": "2006-20-03",
+    "ip": "22.26.59.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage Congress home sense attorney.\nCity Mr world vote my wear expert. Oil half administration face water. Short bag worker indicate. News national size during trial country identify money.",
+        "bio": "Outside cell sea little break bring more. Page federal become stay economy long would name. Call soldier environmental top.\nFormer miss house. Thank necessary attention fly avoid article."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
