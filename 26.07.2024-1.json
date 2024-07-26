@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Mendez",
+    "age": 33,
+    "address": {
+        "street": "James Heights",
+        "city": "South Courtneyland",
+        "state": "Minnesota",
+        "zip": "40521"
+    },
+    "contact": {
+        "phone": "+1-407-568-1530x6510",
+        "servicePhone": "800475645"
+    },
+    "birthday": "1992-05-08",
+    "ip": "147.118.242.54",
+    "foo": "bar",
+    "profile": {
+        "about": "City economic room claim behavior more allow.\nAction go my should whose. Professor pressure threat sort focus wind pressure. Page team economy. Resource range human evidence.",
+        "bio": "Dark trip finally left. Reason hold total conference set. Those guy create road hot more point detail.\nPlant watch machine among. Per hotel range outside process religious."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
