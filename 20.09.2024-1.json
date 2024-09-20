@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Harper",
+    "age": 21,
+    "address": {
+        "street": "Marissa Cove",
+        "city": "Edwardview",
+        "state": "Colorado",
+        "zip": "07162"
+    },
+    "contact": {
+        "phone": "001-898-626-1587x793",
+        "servicePhone": "800705501"
+    },
+    "birthday": "2004-22-02",
+    "ip": "7.237.236.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband certainly seven especially. Case could age. Little lead hold. Again wish picture other suggest material.\nCan over arrive lay tough while. Office around likely laugh.",
+        "bio": "Western stuff quite personal across. Budget run trouble person question past. Game until dinner control."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
