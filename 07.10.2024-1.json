@@ -1,0 +1,25 @@
+{
+    "name": "Brian Martin",
+    "age": 81,
+    "address": {
+        "street": "Johnson Curve",
+        "city": "Rhodesmouth",
+        "state": "Ohio",
+        "zip": "36406"
+    },
+    "contact": {
+        "phone": "(844)377-4828x76361",
+        "servicePhone": "800145757"
+    },
+    "birthday": "1944-20-05",
+    "ip": "101.216.218.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Investment many resource down chair art. Congress able future sound day.\nRate employee decide term step center relationship. Color surface effect nation nothing start.",
+        "bio": "Term generation writer strategy indeed seem indeed future. Business season face high newspaper discussion.\nMyself guess between draw high that dark defense. Enter level Democrat serve."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
