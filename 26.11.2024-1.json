@@ -1,0 +1,25 @@
+{
+    "name": "Martin Navarro",
+    "age": 100,
+    "address": {
+        "street": "Cole Lakes",
+        "city": "West Terri",
+        "state": "California",
+        "zip": "14263"
+    },
+    "contact": {
+        "phone": "(424)837-2510",
+        "servicePhone": "800586817"
+    },
+    "birthday": "1925-15-11",
+    "ip": "53.209.206.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Development bring value piece huge health while. Process figure food physical.\nForget deep science everyone probably sense prevent case. Who realize might sing economic.",
+        "bio": "Indeed course dinner significant represent service traditional. Material girl lot husband race mission attorney.\nInto treat success find usually result idea. Meet southern worry medical deal able."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
